@@ -1,0 +1,26 @@
+INSTALLATION
+Back up your current index.html and assets/css/main.css first.
+Replace index.html and assets/css/main.css with these files. Do not append the CSS.
+Copy the four thesis images into your existing images folder.
+Copy the materials folder into your website folder.
+Keep your existing JavaScript, icon fonts, noscript.css and other images.
+Open with Live Server and refresh with Ctrl+Shift+R.
+
+WHAT CHANGED
+Replaced all project/body placeholder blocks with the new layout.
+Retained original homepage tile titles, descriptions and hover effects.
+Added alternating coloured picture panels with different slight rotations.
+Removed the old form, social icon footer, obsolete footer CSS and menu CSS.
+Added About/photo placeholder, experience, and simple contact placeholders.
+Connected the thesis PDF download. Other downloads are disabled placeholders.
+Projects 2 and 3 contain instructional templates pending their final case studies.
+
+TO COMPLETE
+Replace the photo placeholder with your portrait.
+Review the draft About section.
+Fill Projects 2 and 3 with verified project content and images.
+Add your email and LinkedIn links in Contact.
+Add CV and other approved materials, replacing disabled buttons with download links.
+
+VALIDATION
+Checked layout at 320, 390, 768, 1024 and 1440 pixels, image loading, unique project anchors, and removal of forms. Existing JavaScript, original homepage images, and web fonts were not supplied; local integration should be checked with your existing assets.
